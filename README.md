@@ -1,4 +1,4 @@
-# Jquery Minimalist Gallery
+# JQuery Minimalist Gallery
 
 This is a little JQuery plugin to add a image gallery to your website. Is a plugin extracted from [http://alchups.com/](http://alchups.com/).
 
